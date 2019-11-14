@@ -1,0 +1,1 @@
+<?= "<script>window.location='../404/index.php'</script>"; ?>
